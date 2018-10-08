@@ -1,6 +1,5 @@
 # Tribute-Page
-CodeCamp: Responsive Web Design Project
-This is a CodeCamp project
+CodeCamp Project: Responsive Web Design Project
 
 ## Objectives
 - Build a CodePen.io app that is functionally similar to this: [Example Tribute Page](https://codepen.io/freeCodeCamp/full/zNqgVx).
