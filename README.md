@@ -31,3 +31,4 @@ CodeCamp Project: Responsive Web Design Project
 ## My Tribute Page in CodePen
 [Tribute Page](https://codepen.io/develop1101/pen/qJadqm)
 
+![](tribute.jpg)
