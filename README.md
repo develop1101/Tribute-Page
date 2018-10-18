@@ -31,4 +31,3 @@ CodeCamp Project: Responsive Web Design Project
 ## My Tribute Page in CodePen
 [Tribute Page](https://codepen.io/develop1101/pen/qJadqm)
 
-![image](https://user-images.githubusercontent.com/43621205/47172015-49ef7980-d2d8-11e8-8ccb-7463d5786388.png)
